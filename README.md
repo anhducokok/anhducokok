@@ -1,9 +1,9 @@
 # 💫About Me :
-🎯 I’m a software engineering student with real project experience using Java, JavaScript, and ReactJS.
-🚀 Passionate about full-stack development and learning modern tools & frameworks.
-🛠️ I love turning ideas into working products and improving developer experience.
-🌱 Currently diving deeper into backend systems, TypeScript, and scalable architecture.
-📚 I believe that continuous learning is the key to becoming a great developer.
+🎯 I’m a software engineering student with real project experience using Java, JavaScript, and ReactJS.<br>
+🚀 Passionate about full-stack development and learning modern tools & frameworks.<br>
+🛠️ I love turning ideas into working products and improving developer experience.<br>
+🌱 Currently diving deeper into backend systems, TypeScript, and scalable architecture.<br>
+📚 I believe that continuous learning is the key to becoming a great developer.<br>
 
 
 
